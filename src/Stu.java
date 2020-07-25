@@ -40,10 +40,10 @@ class StuTest
 // class second extends first {  //member attributes
  // }
 
-Object arr2[] = new Object[5];
-arr2[0] = new Object();
-arr2[1] = new String("neeraj");
-arr2[2] = new Integer(1);
+//Object arr2[] = new Object[5];
+//arr2[0] = new Object();
+//arr2[1] = new String("neeraj");
+//arr2[2] = new Integer(1);
 
 
   }
